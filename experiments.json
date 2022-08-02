@@ -20,5 +20,22 @@
         "config": ""
       }
     ]
+  },
+  {
+    "name": "ff_test_experiment_3",
+    "treatments": [
+      {
+        "treatment": "on",
+        "config": ""
+      },
+      {
+        "treatment": "off",
+        "config": ""
+      },
+      {
+        "treatment": "next",
+        "config": ""
+      }
+    ]
   }
 ]
