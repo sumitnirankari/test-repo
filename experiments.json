@@ -1,0 +1,24 @@
+[
+  {
+    "name": "ff_test_experiment_1",
+    "treatments": [
+      {
+        "treatment": "on",
+        "config": ""
+      }
+    ]
+  },
+  {
+    "name": "ff_test_experiment_2",
+    "treatments": [
+      {
+        "treatment": "on",
+        "config": ""
+      },
+      {
+        "treatment": "off",
+        "config": ""
+      }
+    ]
+  }
+]
